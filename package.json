@@ -1,0 +1,34 @@
+{
+  "name": "apianalytics",
+  "version": "1.0.0",
+  "description": "web site and app for smanalitics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "web",
+    "site",
+    "consulting",
+    "data",
+    "analytics"
+  ],
+  "author": "RJM",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "components": "^0.1.0",
+    "concurrently": "^4.1.0",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "eslint-cli": "^1.1.1",
+    "express": "^4.17.1",
+    "express-validator": "^5.3.1",
+    "gravatar": "^1.8.0",
+    "i": "^0.3.6",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.5.14",
+    "nodemon": "^1.19.1"
+  }
+}
